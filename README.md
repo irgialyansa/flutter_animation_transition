@@ -1,8 +1,15 @@
-# animation_transition
+# Flutter Animation & Transition
 
-A new Flutter project.
+Project tugas Pemrograman Mobile II
+Materi: Animation & Page Transition
+Tools: Flutter + VS Code
 
-## Getting Started
+---
+
+## 📱🤳📲 Screenshot Aplikasi
+
+### Menu Utama
+![Menu Utama](link-gambar-menu-utama.png)
 
 <img width="484" height="854" alt="Screenshot 2025-12-19 195505" src="https://github.com/user-attachments/assets/7397de08-dae4-4fc3-837f-b35b853c3c2b" />
 
